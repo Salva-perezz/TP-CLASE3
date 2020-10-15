@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-image: url(https://images.hdqwalls.com/wallpapers/new-york-city-of-america-4k-vr.jpg);
+}
+
+p {
+    color: #faebd7;
+    text-align: center;
+}
+
+section {
+    margin-left: 44em;
+    width: 30em;
+    background-color: #033175;
+    opacity: 0.6;
+}
+
+h1 {
+    background-color: #033175;
+    color: #faebd7;
+}
+
+a {
+    color: #fff;
+}
